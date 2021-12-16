@@ -1,0 +1,65 @@
+header {
+  display: flex;
+  background-image: url(/img/bg_header.png);
+  font-family: "Roboto", sans-serif;
+  width: 1917px;
+  height: 870px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.plate {
+  margin-left: auto;
+  background-image: url(/img/plate_header.png);
+  background-repeat: no-repeat;
+  width: 1205px;
+  height: 745px;
+}
+
+.onions {
+  width: 240px;
+  height: 270px;
+  margin-left: 250px;
+  margin-top: 270px;
+  position: absolute;
+}
+
+.button-plate {
+  margin-left: 1030px;
+  margin-top: 37px;
+  width: 120px;
+  height: 44px;
+  color: #f2f5ef;
+  background-color: chartreuse;
+  border-radius: 10px;
+  border-color: chartreuse;
+  cursor: pointer;
+}
+
+.text-main {
+  font-size: 40pt;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 180px;
+  margin-top: 67px;
+}
+
+.text {
+  font-size: 12pt;
+  display: inline-block;
+  margin-left: 180px;
+  margin-top: 0;
+}
+
+.button-main {
+  margin-left: 180px;
+  margin-top: 20px;
+  width: 222px;
+  height: 72px;
+  color: #f2f5ef;
+  background-color: chartreuse;
+  border-radius: 10px;
+  border-color: chartreuse;
+  cursor: pointer;
+  font-size: 17pt;
+}
